@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFinder", "FileFinder\FileFinder.csproj", "{22144697-8360-41C7-B7DC-B8D4D2CE783E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFinderUnitTest", "FileFinderUnitTest\FileFinderUnitTest.csproj", "{DD8C7A9F-DEEB-4358-B1D6-3F5AD9E5C6DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22144697-8360-41C7-B7DC-B8D4D2CE783E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22144697-8360-41C7-B7DC-B8D4D2CE783E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22144697-8360-41C7-B7DC-B8D4D2CE783E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22144697-8360-41C7-B7DC-B8D4D2CE783E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8C7A9F-DEEB-4358-B1D6-3F5AD9E5C6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8C7A9F-DEEB-4358-B1D6-3F5AD9E5C6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8C7A9F-DEEB-4358-B1D6-3F5AD9E5C6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8C7A9F-DEEB-4358-B1D6-3F5AD9E5C6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7D181D9-C7FF-4B30-9591-B887F97869CA}
+	EndGlobalSection
+EndGlobal
